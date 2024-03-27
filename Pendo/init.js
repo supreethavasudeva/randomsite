@@ -22,7 +22,7 @@
             account: {
                 id:           'sup-pendo-account', // Required if using Pendo Feedback, default uses the value 'ACCOUNT-UNIQUE-ID'
                 name:         'sup-name', 
-                location: 'EU'
+                pet_name: 'kv'
             }
         });
 })('19d279d9-f5fe-4614-7b1c-20469d39913a');

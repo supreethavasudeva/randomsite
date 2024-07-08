@@ -14,7 +14,7 @@
             visitor: {
                 id:              'sufddsgdfp-pendo',   // Required if user is logged in, default creates anonymous ID
              email:       'sup-pendo@gmail.com',
-                full_name:    'sup-pendo',
+                full_name:    'supreethavasudeva',
                 role:        'admin',
                 location: 'EU'
             },

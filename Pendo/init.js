@@ -22,8 +22,8 @@
             account: {
                 id:           'sup-pendo-account', // Required if using Pendo Feedback, default uses the value 'ACCOUNT-UNIQUE-ID'
                 name:         'sup-name', 
-                pet_name: 'kv'
-                is_paying:   'no'
+                pet_name: 'kv',
+                is_paying:   'no',
              monthly_value: '1000'
             }
         });
